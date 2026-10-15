@@ -1,4 +1,4 @@
-ConnectHub — Connect Beyond Boundaries
+ConnectHub  Connect Beyond Boundaries.
 
 **ConnectHub** is a full-stack networking platform designed to help students and industry professionals discover people, build meaningful connections, and communicate with one another.
 
